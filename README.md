@@ -13,3 +13,7 @@ PORT= # Port to serve the app on
 PIXABAY_API_KEY= # Your Pixabay API key
 NEWS_API_KEY= # Your News API key
 ```
+
+## Running the app
+
+Just type in `node app.js` and voila, the app should now be served on given `PORT`
